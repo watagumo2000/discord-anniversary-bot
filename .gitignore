@@ -1,0 +1,10 @@
+# .gitignore
+
+# 依存関係
+node_modules/
+
+# 環境変数（絶対にコミットしない！）
+.env
+
+# その他、OSごとの不要ファイルなど
+.DS_Store
